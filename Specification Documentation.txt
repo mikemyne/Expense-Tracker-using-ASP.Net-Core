@@ -17,11 +17,12 @@ The functionalities include:
  
          i.) Dashboard module
 That showcases total income, total expenses and balance from expenses, as well as a line graph comparison of the income vs expenses incurred daily. 
-It also shows recent transactions listing the expenses by category, date and amount spent. A pie chart of the expenses according to category is also generated
+It also shows recent transactions listing the expenses by category, date and amount spent. 
+A pie chart of the expenses according to category is also generated
  
          ii  Category module
-That showcases the expenses by category and indicates the type of transaction between income and expense. It also enables adding new category expense by indicating the
-type and title of the expense eg. rent, transport etc while also allowing one to edit or delete an expense category.
+That showcases the expenses by category and indicates the type of transaction between income and expense. 
+It also enables adding new category expense by indicating the type and title of the expense eg. rent, transport etc while also allowing one to edit or delete an expense category.
  
         iii.) Transactions module
 That showcases the expenses by category, the date incurred and amount adding or subtracting the total sum depending on it being an income or expense. It also enables creating a new transaction by indicating the date, category of expense, amount and optional note as well as editing or deleting the same.

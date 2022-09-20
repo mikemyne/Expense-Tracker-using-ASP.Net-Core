@@ -39,7 +39,7 @@ The system is web based application. As such, any device with internet access an
 The system must include the following:
 ·         Ability to allow both internal and external users to access the application without downloading any software
 ·         Ability to interface with the existing data warehouse application
-·        	Ability to incorporate automated routing and notifications based on business rules
+·       Ability to incorporate automated routing and notifications based on business rules
 
 4. DELIVERABLES
 ---------------

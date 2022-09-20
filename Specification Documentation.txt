@@ -32,7 +32,7 @@ The functionalities include:
 •            It aenables creating a new transaction by indicating the date, category of expense, amount and optional note. 
 •            Enables editing or deleting of transactions.
  
-3. HIGH LEVEL REQUIREMENTS
+3. HIGH-LEVEL REQUIREMENTS
 --------------------------
 The system is web based application. As such, any device with internet access and the latest browser, will be able to access it.
  
@@ -49,7 +49,7 @@ The system must include the following:
 ·         ASP.Net core framework.
 ·         User responsive web-based application accessible.
 
-5. AFFECTED PARTIES
+5. PARTIES INVOLVED
 -------------------
 ·         Application users
 

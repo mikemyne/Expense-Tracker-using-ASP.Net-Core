@@ -14,7 +14,7 @@ the expenses that have been incurred by category and a comparsion line graph bet
  
  2. PROJECT SCOPE
  ------------------
-The project is a web-based application that supports Laptops, desktops and Tablet devices.
+The project is a web-based application that supports Laptops and desktop devices.
 The functionalities include: 
  
         i.) Dashboard module
@@ -37,9 +37,10 @@ The functionalities include:
 The system is web based application. As such, any device with internet access and the latest browser, will be able to access it.
  
 The system must include the following:
-·         Ability to allow both internal and external users to access the application without downloading any software
-·         Ability to interface with the existing data warehouse application
-·         Ability to incorporate automated routing and notifications based on business rules
+·         Ability to allow users to access the application without downloading any software
+·         Ability to compare and contrast income vs expenses overtime with some visualization
+·         Ability to categorize expenditure be it an expense or income
+·         Ability to create new transactions incurred and subtract from the income
 
 4. DELIVERABLES
 ---------------
@@ -58,5 +59,4 @@ The system must include the following:
 ---------------------------------
 The following will be excluded and will come in the subsequent phases: -
 ·         Despite having a profile on the dashboard, the applicaion will not have a registration or login module for the convenience of making it readily accessible
-•
 •

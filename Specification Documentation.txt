@@ -24,7 +24,8 @@ The functionalities include:
  
         ii.) Category module
 •            Showcases the expenses by category and indicates the type of transaction between income and expense. 
-•            Enables adding new category expense by indicating the type and title of the expense eg. rent, transport etc while also allowing one to edit or delete an expense category.
+•            Enables adding new category expense by indicating the type and title of the expense eg. rent, transport etc.
+•            Enable edit or delete an expense category.
  
         iii.) Transactions module
 •            Showcases the expenses by category, the date incurred and amount adding or subtracting the total sum depending on it being an income or expense.
@@ -36,9 +37,9 @@ The functionalities include:
 The system is web based application. As such, any device with internet access and the latest browser, will be able to access it.
  
 The system must include the following:
-·        Ability to allow both internal and external users to access the application without downloading any software
-·        Ability to interface with the existing data warehouse application
-·       	Ability to incorporate automated routing and notifications based on business rules
+·         Ability to allow both internal and external users to access the application without downloading any software
+·         Ability to interface with the existing data warehouse application
+·        	Ability to incorporate automated routing and notifications based on business rules
 
 4. DELIVERABLES
 ---------------
@@ -57,3 +58,5 @@ The system must include the following:
 ---------------------------------
 The following will be excluded and will come in the subsequent phases: -
 ·         Despite having a profile on the dashboard, the applicaion will not have a registration or login module for the convenience of making it readily accessible
+•
+•

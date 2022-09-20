@@ -4,16 +4,16 @@ SCII/02935P/2018
 BUDGET AND EXPENSE TRACKER WEB-APP
 FOR CONVENIENT PLANNING OF INCOME AND EXPENSE MANAGEMENT
 
-         Overview:
-         1.  PROJECT BACKGROUND AND DESCRIPTION
-         ---------------------------------------
+OVERVIEW:
+1. PROJECT BACKGROUND AND DESCRIPTION
+---------------------------------------
 The idea of tracking expenses can feel overwhelming, especially if one’s been avoiding it for a while or have never done it before. When it comes to tracking spending,
 there can be different reasons for doing it. Could be out of curiousity where money is going, working towards a specific financial goal, or want to deal with managing savings.
 A simple and easy-to-use expense tracker that makes managing personal finances easy can be convenient for financial management. With a visual money statistics chart of all 
 the expenses that have been incurred by category and a comparsion line graph between your income and expenses can help keep tabs on the trajectory of your finances.
  
-         2.  PROJECT SCOPE
-         ------------------
+ 2. PROJECT SCOPE
+ ------------------
 The project is a web-based application that supports Laptops, desktops and Tablet devices.
 The functionalities include: 
  
@@ -31,7 +31,8 @@ The functionalities include:
 •        It aenables creating a new transaction by indicating the date, category of expense, amount and optional note. 
 •        Enables editing or deleting of transactions.
  
-3.    High-Level Requirements
+3. HIGH LEVEL REQUIREMENTS
+--------------------------
 The system is web based application. As such, any device with internet access and the latest browser, will be able to access it. In addition, there will be SMS capabilities that can be utilized by any device with SMS capabilities.
  
 The new system must include the following:

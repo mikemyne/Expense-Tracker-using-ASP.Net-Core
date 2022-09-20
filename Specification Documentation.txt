@@ -36,9 +36,9 @@ The functionalities include:
 The system is web based application. As such, any device with internet access and the latest browser, will be able to access it.
  
 The system must include the following:
-•	       Ability to allow both internal and external users to access the application without downloading any software
-•        Ability to interface with the existing data warehouse application
-•       	Ability to incorporate automated routing and notifications based on business rules
+·        Ability to allow both internal and external users to access the application without downloading any software
+·        Ability to interface with the existing data warehouse application
+·       	Ability to incorporate automated routing and notifications based on business rules
 
 4. DELIVERABLES
 ---------------
@@ -51,8 +51,7 @@ The system must include the following:
 
 5. AFFECTED PARTIES
 -------------------
-·         Management
-·         Members
+·         Application users
 
 6. SPECIFIC EXCLUSIONS FROM SCOPE
 ---------------------------------

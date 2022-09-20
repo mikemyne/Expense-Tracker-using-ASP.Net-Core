@@ -44,12 +44,10 @@ The system must include the following:
 
 4. DELIVERABLES
 ---------------
-·         Back-end software that is hosted in the cloud.
-·         UI Prototype for both members and management.
-·         Management web based application, accessible through specific authorized computers.
-·         Members responsive web based application accessible.
-·         User documentation manual.
-·         Technical documentation 
+·         Front-end and Back-end software
+·         SyncFusion components for UI.
+·         ASP.Net core framework.
+·         User responsive web-based application accessible.
 
 5. AFFECTED PARTIES
 -------------------

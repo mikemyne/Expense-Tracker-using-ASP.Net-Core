@@ -1,2 +1,60 @@
-.
-.
+SOFTWARE ENGINEERING STUDIO
+SCII/02935P/2018
+
+BUDGET AND EXPENSE TRACKER WEB-APP
+FOR CONVENIENT PLANNING OF INCOME AND EXPENSE MANAGEMENT
+
+         Overview:
+1.       PROJECT BACKGROUND AND DESCRIPTION
+The idea of tracking expenses can feel overwhelming, especially if one’s been avoiding it for a while or have never done it before. When it comes to tracking      spending, there can be different reasons for doing it. Could be out of curiousity where money is going, working towards a specific financial goal, or want to deal with managing savings.
+ 
+A simple and easy-to-use expense tracker that makes managing personal finances easy can be convenient for financial management. With a visual money statistics chart of all the expenses that have been incurred by category and a comparsion line graph between your income and expenses can help keep tabs on the trajectory of your finances.
+ 
+2.       PROJECT SCOPE
+The project is a web-based application that supports Laptops, desktops and Tablet devices.
+The functionalities include: 
+ 
+i.)       Dashboard module
+That showcases total income, total expenses and balance from expenses, as well as a line graph comparison of the income vs expenses incurred daily. It also shows recent transactions listing the expenses by category, date and amount spent. A pie chart of the expenses according to category is also generated
+ 
+ii.)      Category module
+That showcases the expenses by category and indicates the type of transaction between income and expense. It also enables adding new category expense by indicating the type and title of the expense eg. rent, transport etc while also allowing one to edit or delete an expense category.
+ 
+iii.)     Transactions module
+That showcases the expenses by category, the date incurred and amount adding or subtracting the total sum depending on it being an income or expense. It also enables creating a new transaction by indicating the date, category of expense, amount and optional note as well as editing or deleting the same.
+ 
+3.    High-Level Requirements
+The system is web based application. As such, any device with internet access and the latest browser, will be able to access it. In addition, there will be SMS capabilities that can be utilized by any device with SMS capabilities.
+ 
+The new system must include the following:
+·	Ability to allow both internal and external users to access the application without downloading any software
+·	Ability to interface with the existing data warehouse application
+·	Ability to incorporate automated routing and notifications based on business rules
+4.    Deliverables
+·         Back-end software that is hosted in the cloud.
+·         UI Prototype for both members and management.
+·         Management web based application, accessible through specific authorized computers.
+·         Members responsive web based application accessible.
+·         User documentation manual.
+·         Technical documentation 
+5.    Affected Parties
+·         Management
+·         Members
+6.    Affected Business Processes or Systems
+·         Member registration
+·         Loan application
+·         Loan approval process
+·         Deposits
+·         Loan repayments
+·         Accounts status enquiries.
+7.    Specific Exclusions from Scope
+In this phase (phase 1), the following will be excluded and will come in the subsequent phases: -
+·         Direct MPESA connection through the API, that will enable real-time deposit reflection into the members’ accounts without human interaction.
+·         Direct Bank connection through the SACCO bank API that enable real-time deposit reflections into the member’s accounts.
+·         Integration with existing systems (if any).
+8.    Implementation Plan
+The project will kick off with the implementation of stubs necessary to enable development of the prototype.
+After the stubs, the UI prototype will be developed. Once the prototype has been developed, the SACCO officials will go through it and approve of it. This stage is to ensure that all required functionalities have been factored and that the user experience (UX) is excellent.
+After the UI prototype has been done, the stubs will be replaced with the business logic, starting with members’ module, followed by savings and shares module, then loans module last.
+Email and SMS alerts will be integrated as part of modules development.
+Signing off, commissioning and training will follow thereafter.

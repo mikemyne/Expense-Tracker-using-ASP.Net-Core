@@ -33,37 +33,31 @@ The functionalities include:
  
 3. HIGH LEVEL REQUIREMENTS
 --------------------------
-The system is web based application. As such, any device with internet access and the latest browser, will be able to access it. In addition, there will be SMS capabilities that can be utilized by any device with SMS capabilities.
+The system is web based application. As such, any device with internet access and the latest browser, will be able to access it.
  
-The new system must include the following:
-·	Ability to allow both internal and external users to access the application without downloading any software
-·	Ability to interface with the existing data warehouse application
-·	Ability to incorporate automated routing and notifications based on business rules
-4.    Deliverables
+The system must include the following:
+•	       Ability to allow both internal and external users to access the application without downloading any software
+•        Ability to interface with the existing data warehouse application
+•       	Ability to incorporate automated routing and notifications based on business rules
+
+4. DELIVERABLES
+---------------
 ·         Back-end software that is hosted in the cloud.
 ·         UI Prototype for both members and management.
 ·         Management web based application, accessible through specific authorized computers.
 ·         Members responsive web based application accessible.
 ·         User documentation manual.
 ·         Technical documentation 
-5.    Affected Parties
+
+5. AFFECTED PARTIES
+-------------------
 ·         Management
 ·         Members
-6.    Affected Business Processes or Systems
-·         Member registration
-·         Loan application
-·         Loan approval process
-·         Deposits
-·         Loan repayments
-·         Accounts status enquiries.
-7.    Specific Exclusions from Scope
+
+6. SPECIFIC EXCLUSIONS FROM SCOPE
+---------------------------------
 In this phase (phase 1), the following will be excluded and will come in the subsequent phases: -
 ·         Direct MPESA connection through the API, that will enable real-time deposit reflection into the members’ accounts without human interaction.
 ·         Direct Bank connection through the SACCO bank API that enable real-time deposit reflections into the member’s accounts.
 ·         Integration with existing systems (if any).
-8.    Implementation Plan
-The project will kick off with the implementation of stubs necessary to enable development of the prototype.
-After the stubs, the UI prototype will be developed. Once the prototype has been developed, the SACCO officials will go through it and approve of it. This stage is to ensure that all required functionalities have been factored and that the user experience (UX) is excellent.
-After the UI prototype has been done, the stubs will be replaced with the business logic, starting with members’ module, followed by savings and shares module, then loans module last.
-Email and SMS alerts will be integrated as part of modules development.
-Signing off, commissioning and training will follow thereafter.
+

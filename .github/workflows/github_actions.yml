@@ -10,7 +10,7 @@ on:
     - master
     
   pull_request:
-    branches: [ "main
+    branches: [ "main" ]
 
 jobs:
   test:

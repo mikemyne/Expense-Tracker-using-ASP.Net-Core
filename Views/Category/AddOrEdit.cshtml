@@ -18,25 +18,27 @@
                         <input type="radio" id="radiomiddle" name="Type" value="Income" checked="@(Model.Type=="Income")" />
                         <label class="e-btn" for="radiomiddle">Income</label>
                     </div>
-                    <span asp-validation-for="Type" class="text-danger"></span>
                 </div>
 
                 <div class="mb-3">
-                    @*<ejs-textbook id="title" placeholder="Title" value="Title"></ejs-textbook>*@
-                    <label asp-for="Title" class="control-label"></label>
+                    <ejs-textbox id="title" placeholder="Title" ejs-for="Title" floatLabelType="Always"></ejs-textbox>
+                    <span asp-validation-for="Title" class="text-danger fs-6"></span>
+                    @*<label asp-for="Title" class="control-label"></label>
                     <input asp-for="Title" class="form-control" />
-                    <span asp-validation-for="Title" class="text-danger"></span>
+                    <span asp-validation-for="Title" class="text-danger"></span>*@
                 </div>
 
                 <div class="mb-3">
-                    <label asp-for="Icon" class="control-label"></label>
+                    <ejs-textbox id="icon" placeholder="Icon" ejs-for="Icon" floatLabelType="Always"></ejs-textbox>
+                    @*<label asp-for="Icon" class="control-label"></label>
                     <input asp-for="Icon" class="form-control" />
-                    <span asp-validation-for="Icon" class="text-danger"></span>
+                    <span asp-validation-for="Icon" class="text-danger"></span>*@
                 </div>
+                <ejs-button id="submit" type="submit" content="Submit" cssClass="e-success"></ejs-button>
 
-                <div class="form-group">
+                @*<div class="form-group">
                     <input type="submit" value="Submit" class="btn btn-primary" />
-                </div>
+                </div>*@
 
             </form>
         </div>
@@ -51,6 +53,6 @@
 
 
 
-@section Scripts {
+@*@section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
-}
+}*@
